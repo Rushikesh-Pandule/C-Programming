@@ -1,0 +1,5 @@
+Write a C program to print the size of various data types (int, float, double, char).
+Write a C program to find the sum of all elements in an integer array. Initialize the array with {1, 2, 3, 4, 5}.
+Write a C program to count the number of characters in a string (excluding the null terminator). For example, if the input string is "Hello", the output should be 5.
+Write a C program to print numbers from 1 to 10 using a for loop.
+Write a C program to print numbers from 1 to 10 using a while loop.
