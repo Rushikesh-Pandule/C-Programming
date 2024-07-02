@@ -9,7 +9,4 @@ int main(){
     printf("%.2f \n",floatt );
     printf("%lf \n",doublee);
     printf("%c \n",character);
-
-
-
 }
