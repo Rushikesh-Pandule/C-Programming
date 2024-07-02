@@ -2,8 +2,8 @@
  
 int main()
 {
-    int marks;
-    char name [30];
+    int a;
+    char b [30];
     
     printf("enter marks");
     scanf("%d",&marks);
